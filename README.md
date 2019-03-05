@@ -10,11 +10,12 @@ L.F.S : LKH Family System
 - Spring security(Login, Logout, Bycript)
 - Apache Tomcat
 - 웹표준(HTML,CSS,JavaScript)
+- JSP
 - Jquery
-- jstl
-- Ajax
-- Restfull
 - Bootstrap
+- JSTL
+- AJAX
+- Restfull
 - oracle
 - mybatis
 - Junit5
