@@ -7,6 +7,8 @@ L.F.S : LKH Family System
 > 방문자 페이지 - http://13.124.104.65:8080/
   
 > 관리자, 사원 페이지 - 데이터 베이스 연동으로 인해 추후 업로드 예정.
+  
+> 시연 영상 : https://youtu.be/vd0eah5WLZc
 
 # 개발환경
 - Spring FrameWork
